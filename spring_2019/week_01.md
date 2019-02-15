@@ -1,24 +1,14 @@
-## Last Week's Accomplishments
+Jade Forman
+RCOS Status Update
+Spring 2019
+Week 1
+FLOM
 
-> In this section, you can write about what you accomplished in the previous week.
+Last Week’s Accomplishments:
+Last week we all finally broke up into our two sub-teams.  We now have a software team and a hardware team.  The software team has started working on the code for their web-app and the barebones have been pushed on Github and can be pulled by anyone on the team.  Jeremy Wixby has been working hard on the frontend of things and has begun working on the floor plan for the website.  The software team has made huge progress.  As for the hardware team, we have been researching extensively on what kind of sensors would be best to use for the study rooms.  We have looked into IR sensors for reading heat data, pressure sensors, and ultrasonic for detecting motion.  As a team and after careful consideration we have decided on IR sensors and plan to begin ordering parts this week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+This Week’s Plan
+The hardware team’s plan for the upcoming week is to hopefully have our parts in and begin prototyping.  We are still on schedule as of now.
 
-## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
-
-## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Anything Blocking?:
+The only thing blocking us right now is ordering parts and waiting for them to come in. Once they are here, we are all set and ready to begin building and prototyping the sensors that will be placed in each study room.
